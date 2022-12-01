@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IeNaBuNa</string>
+    <string name="acehfoods_name">IeNaBuNa</string>
+    <string name="acehfoods_detail">Detail IeNaBuNa</string>
+    <string name="about">Tentang</string>
+    <string name="profil">Icon profil</string>
+    <string name="developer">Muhammad</string>
+    <string name="email">gmail.com</string>
+    <string name="tv_name_received">Nama makanan diterima</string>
+    <string name="tv_detail_received">Detail makanan diterima</string>
+    <string name="detail_makanan">Detail</string>
+    <string name="acehfoods">IeNaBuNa</string>
+    <string name="img_contentDesc">Foto</string>
+</resources>
